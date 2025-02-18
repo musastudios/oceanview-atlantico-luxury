@@ -90,7 +90,7 @@ const Index = () => {
               <p className="text-gray-600">
                 Agenda tu cita personalizada: (787) 418-3707
               </p>
-            </div>
+            </motion.div>
           </div>
         </div>
       </section>

@@ -41,7 +41,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <img 
-                src="/atlantico-logo.svg" 
+                src="/altantico-logo.svg" 
                 alt="Atlántico" 
                 className="h-16 w-auto object-contain" 
               />

@@ -39,7 +39,7 @@ const Index = () => {
       <nav className="fixed w-full z-50 bg-white/80 backdrop-blur-sm shadow-md">
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
-            <div className="flex items-center gap-3" style={{backgroundImage: 'url("/atlantico-logo.svg")'}}>
+            <div className="flex items-center gap-3">
               <img 
                 src="/atlantico-logo.svg" 
                 alt="Atlántico" 
